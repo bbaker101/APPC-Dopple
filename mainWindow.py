@@ -10,7 +10,7 @@ background_colour = (234, 212, 252)
 screen = pygame.display.set_mode((300, 300))
 
 # Set the caption of the screen
-pygame.display.set_caption('Geeksforgeeks')
+pygame.display.set_caption('Dopple')
 
 # Fill the background colour to the screen
 screen.fill(background_colour)
