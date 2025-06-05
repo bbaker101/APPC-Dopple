@@ -3,11 +3,11 @@ import pygame
 
 # Define the background colour
 # using RGB color coding.
-background_colour = (234, 212, 252)
+background_colour = (255, 255, 255)
 
 # Define the dimensions of
 # screen object(width,height)
-screen = pygame.display.set_mode((300, 300))
+screen = pygame.display.set_mode((500, 500))
 
 # Set the caption of the screen
 pygame.display.set_caption('Dopple')
